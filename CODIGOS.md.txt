@@ -1,0 +1,2 @@
+#Q= sair
+## Ctrl+l= limpar
